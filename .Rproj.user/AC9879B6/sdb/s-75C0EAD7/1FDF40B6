@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"p8105_hw4_ly2428\"\nauthor: \"Leiyu Yue\"\ndate: \"10/25/2017\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n```{r}\nlibrary(tidyverse)\nlibrary(janitor)\n```\n\n```{r}\n#\npol <- read_csv(\"pols-month.csv\") %>% \n  clean_names() %>% \n  mutate(mon = as.Date(mon, format = \"%Y - %m - %d\") ) %>% \n  mutate(month = lubridate::floor_date((mon), unit = \"month\"))\n#\ngdp <- read_csv(\"GDP.csv\") %>% \n  clean_names() %>% \n  mutate(date = as.Date(date, format = \"%Y - %m - %d\")) %>% \n  mutate(month = lubridate::floor_date((date), unit = \"month\"))\n#\n#\ndata <- left_join(pol, gdp, by = \"month\")\n```\n\n\n\n",
+    "created" : 1509246793367.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3592371453",
+    "id" : "1FDF40B6",
+    "lastKnownWriteTime" : 1509247040,
+    "last_content_update" : 1509246852059,
+    "path" : "~/Documents/School/DSI/hw4/hw4_p2.Rmd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,77 @@
+---
+title: "About"
+---
+
+### EDUCATION:
+***
+#####_Xiamen University Xiamen,China_ | 08/2013-06/2017 #####
+●	Major: Biological Technology  
+●	Degree: Bachelor of Science   
+●	GPA Ranking: 7/160  
+
+#####_National Sun Yat-sen University  Taiwan_ | 09/2015-01/2016 #####  
+●	Exchange Student majored in Biology  
+
+#####_Johns Hopkins University_ | 07/2016-08/2016 #####  
+●	Short-term research training  
+
+### RESEARCH EXPERIENCE:
+***
+##### _Short-Term Research Training, Joel Schildbach’s Lab, Johns Hopkins University_ | 07/2016-08/2016 #####  
+●	First Phase: Phage Research  
+●	Phage Enrichment: successfully collected soil sample and enrich the phages in moist soil  
+●	Phage Plaque Streak and Plates Dilution: Successfully obtained the purified phage through normal streak, T Streak and dilutions  
+●	 Acquired MTL and HTL successfully: Increased the phage concentration from medium to high and calculated the titer  
+●	NanoDrop and Run QC Gel: Purified phage genome and did NanoDrop, Ran QC Gel  
+●	Second Phase: Independent-design experiment:Simple Experiment about The Effects of Different Calcium Concentration on The Growing of Phages  
+●	 Prepared Calcium solutions with different concentration and labeled them. Prepared and labeled six bacteria tubes.  
+●	Added each different concentration Calcium solution 90μL to each corresponding bacteria tube  
+●	Added each Calcium-Bacteria mixture 10μL to HTL and Stored them at 4℃ overnight  
+●	Added top agar(TA) 4.5ml to each tube.Plated out and swirled the plates.  
+●	Results: Too much Calcium may have negative influences on the growing of phages.  
+
+##### _The 11th. Statistics Design Competition in Xiamen University First Prize_ | 05/2016 #####  
+Project: The Relation between high incidence rate of Lung Cancer and Air Pollution   
+●	Role: Group Leader  
+●	Collected annual data report of pollutant and incurrence of  lung cancer in Beijing and Xiamen from 2007-2014 and annual data of forestation rate in Beijing and Xiamen   
+●	Conducted dimension-reduced processing of data  
+●	Used SPSS Regression Models to analyse the statistics  
+●	Established Panel Data Model to work out the relation between incidence rate of Lung Cancer and Air Pollution  
+
+#####_Long-Term Research Training, JiZhiliang’s Bioinformatics Lab, Xiamen University_ | 09/2015-09/2016##### 
+●	First  Phase:MOE Modeling of Frizzled-8 Protein  
+●	Utilisedprosite to anticipate protein domain and annotated every domain.  
+●	Analyzed every domain and confirmed their 3D plot  
+●	Used KEGG to find information of correlated protein  
+●	MOE Modellingand analysed the result of modelling.    
+●	Second Phase:Combined Project of ORF Finder, BLAST, PIR, SMART and Pfam  
+●	Through ORF Finder find the encode of Protein Sequences  
+●	Utilized BLAST to test accuracy of the amino acid sequence  
+●	Utilized PIR and correlated protein name to search corresponding proteins and wrote the entry names in Uniref  
+●	Utilized SMART or Pfam and entry names to search and wrote family name or Pfam ID of corresponding protein  
+
+#####_National College Student’s Innovative Competition: The Preliminary Research about the Inhibition Effect of Lipoxins to Endometriosis(EMT)_ | 01/2015-01/2016#####  
+●	Studied the expression of transcriptions factors-ZEB1,Slug-in endometriosis patients  
+●	Studied the expression of LXA4 in endometriosis patients  
+●	Based on selected clinical samples, at vitro molecular level, this project attempted to figure out whether EMT exist among endometriosis patients and analyzed the inhabitation effect of Lipoxins  
+
+#####_Research Intern at Chinese Academy of Sciences, Chengdu Branch_ |  07/2015-08/2015 #####
+●	Role: Lab technician  
+●	Practiced methods of culturing and screening cells; ELISA，SDS-PAGE;sequence Alignment  
+●	Interned in Chengdu Di Ao Medicine Group Co. Ltd. for a short time  
+
+### PUBLICATIONS:
+***
+Wu,Rongfeng; Yang,Huiming; Zhou,Weidong;Yue,Leiyu;Zhang,Lirong etc.2016.“Proteomic analysis of the effect of IL-1β and Lipoxin A4 in human endometriotic stromal cells” The Journal of Obstetrics and Gynaecology Research 2016(4)
+
+### HONORS:
+***
+Annual Merit-based Scholarship in 2015-2016 Academic year | 06/2016  
+Annual Merit-based Scholarship in 2013-2014 Academic year | 06/2014  
+Scholarship for Social Practice in 2013-2014 Academic year | 06/2014  
+
+### SKILLS:
+***
+Computer Skills: R Language, C Language, SPSS,SAS, JAVA
+
+
